@@ -1,0 +1,7 @@
+# ninja log v5
+0	1921	1652962453726954711	CMakeFiles/untitled_folder.dir/domain.cpp.o	662785d88a1259c2
+1	2050	1652962453854813962	CMakeFiles/untitled_folder.dir/repocontract.cpp.o	f34bf53768222e09
+1	2383	1652962454185200191	CMakeFiles/untitled_folder.dir/repofile.cpp.o	a4f8ad56a7066bf6
+2	2501	1652962454305186637	CMakeFiles/untitled_folder.dir/repository.cpp.o	fe997c141701af5c
+6	2572	1652962470494560417	CMakeFiles/untitled_folder.dir/validator.cpp.o	b8ea213d07d50ec8
+5	2870	1652962470809463507	CMakeFiles/untitled_folder.dir/ui.cpp.o	a90bdf5a4ede6c38
